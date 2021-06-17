@@ -105,6 +105,11 @@ img {
     left: 0;
     background: #e6e6e6;
     transform: skewY(-2.5deg);
+    z-index: 0;
+}
+
+.stats {
+    padding-top: 100px;
 }
 
 
